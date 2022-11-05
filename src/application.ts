@@ -40,5 +40,6 @@ export class PedidosApplication extends BootMixin(
         nested: true,
       },
     };
+    
   }
 }
